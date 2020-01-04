@@ -1,0 +1,5 @@
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\Model\bin\Debug\Model.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\Model\bin\Debug\Model.pdb
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\Model\obj\Debug\Model.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\Model\obj\Debug\Model.pdb

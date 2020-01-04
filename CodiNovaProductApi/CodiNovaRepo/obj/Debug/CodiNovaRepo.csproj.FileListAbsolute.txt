@@ -1,0 +1,9 @@
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaRepo\bin\Debug\CodiNovaRepo.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaRepo\bin\Debug\CodiNovaRepo.pdb
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaRepo\bin\Debug\CodiNovaDal.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaRepo\bin\Debug\Model.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaRepo\bin\Debug\CodiNovaDal.pdb
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaRepo\bin\Debug\Model.pdb
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaRepo\obj\Debug\CodiNovaRepo.csprojResolveAssemblyReference.cache
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaRepo\obj\Debug\CodiNovaRepo.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaRepo\obj\Debug\CodiNovaRepo.pdb

@@ -1,0 +1,12 @@
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\bin\Debug\CodiNovaDal.dll.config
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\bin\Debug\CodiNovaDal.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\bin\Debug\CodiNovaDal.pdb
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\bin\Debug\EntityFramework.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\bin\Debug\Model.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\bin\Debug\Model.pdb
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\bin\Debug\EntityFramework.xml
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\obj\Debug\CodiNovaDal.csprojResolveAssemblyReference.cache
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\obj\Debug\CodiNovaDal.dll
+c:\users\arif.kh\documents\visual studio 2015\Projects\CodiNovaProductApi\CodiNovaDal\obj\Debug\CodiNovaDal.pdb
